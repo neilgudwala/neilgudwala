@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neilgudwala
 - 🌱 I’m currently learning CS50 from Harvard University
 - 📑 I’m studying Physics at BITS Pilani, Hyderabad
-- 👀 Follow me on Linkedin: [Neil Gudwala](https://www.linkedin.com/in/neil-gudwala-474a2724a/)
+- 👀 Find me on Linkedin: [Neil Gudwala](https://www.linkedin.com/in/neil-gudwala-474a2724a/)
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach out to me: neil@gudwala.com
 

@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @neilgudwala
-- 🌱 I’m currently learning ...
-- 📑 I’m studying Physics & ECE at BITS Pilani, Hyderabad
-- 👀 Find me on Linkedin: [Neil Gudwala](https://www.linkedin.com/in/neil-gudwala-474a2724a/)
-- 💞️ I’m looking to collaborate on ...
-- 📫 Reach out to me: neil.gudwala@gmail.com
+# Hey, I'm Neil Gudwala 👋
 
-<!---
-neilgudwala/neilgudwala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an engineer exploring the intersection of **AI, software engineering, and applied machine learning**.
+
+Currently exploring AI Engineering at:
+- [Uber](https://github.com/uber)
+- [Sarvam AI](https://github.com/sarvamai)
+
+Beyond that, you'll find my personal projects here, spanning:
+- **AI & Machine Learning** – Building intelligent applications and experimenting with LLMs.
+- **Full-Stack Development** – Building end-to-end applications and developer tools.
+- **Computational Physics** – Applying machine learning and computational techniques to physics problems.
+
+Always curious, always building.

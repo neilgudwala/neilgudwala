@@ -2,7 +2,7 @@
 
 I'm an engineer exploring the intersection of **AI, software engineering, and applied machine learning**.
 
-Currently exploring AI Engineering at:
+Currently exploring AI Engineering and Software Development at:
 - [Uber](https://github.com/uber)
 - [Sarvam AI](https://github.com/sarvamai)
 
